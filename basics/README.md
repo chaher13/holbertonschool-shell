@@ -6,3 +6,6 @@
 5-listfilesdigitonly diplay current directory contents in a long format (user and group IDs) and hidden files
 6-firstdirectory creates a directory named my_first_directory in the /tmp/
 7-movethatfile  move the fille betty from /tmp/ to /tmp/my_first_directory
+8-firstdelete delete file betty in /tmp/my_first_directory/
+9-firstdirdeletion delete the directory my_first_directory in /tmp/
+10-back changes the working directory to the previous one
