@@ -1,0 +1,2 @@
+#!/bin/bash
+grep root /ect/paswwd | tail -n 3 /etc/passwd
